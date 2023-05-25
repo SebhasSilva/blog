@@ -1,5 +1,3 @@
 Hola
 
-Soy Sebas y tengo 26 años y estoy practicando git hub con platzi
-
-vamos informando el progreso
+Soy Sebas y estoy aprendiendo a usar los comandos git revert y git reset --hard en mi pc
