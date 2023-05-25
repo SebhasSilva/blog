@@ -3,5 +3,3 @@ Hola
 Soy Sebas y tengo 26 años y estoy practicando git hub con platzi
 
 vamos informando el progreso
-
-En este momento estoy practicando el git revert
