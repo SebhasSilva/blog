@@ -1,5 +1,0 @@
-Hola
-
-Soy Sebas y estoy aprendiendo a usar los comandos git revert y git reset --hard en mi pc
-
-Ya soy un duro manejand git revert y git reset
