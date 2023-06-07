@@ -24,12 +24,17 @@ body
     color: brown;
 }
 
+#name {
+    font-size: medium;
+    color: aqua;
+}
+
 #list
 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 15px;
-    margin: 0;
-    padding: 0;
+    margin: 1;
+    padding: 1;
 }
 
 #cabecera

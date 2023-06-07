@@ -12,12 +12,15 @@
             <div id="list">
                 <h1>Este es el listado de comandos que he aprendido y estoy tratando de dominar</h1>
                 <ol>
-                    <li>git log --oneline</li> <p>Te muestra el id commit y el titulo del commit.</p>
-                    <li>git log --decorate</li> <p>Te muestra donde se encuentra el head point en el log.</p>
-                    <li>git log --stat</li> <p>Explica el numero de lineas que se cambiaron brevemente.</p>
-                    <li>git log -p</li> <p>Explica el numero de lineas que se cambiaron y te muestra que se cambio en el contenido.</p>
-                    <li>git shortlog</li> <p>Indica que commits ha realizado un usuario, mostrando el usuario y el titulo de sus commits.</p>
-                    <li>git log --pretty=format:"%cn hizo un commit %h el dia %cd"</li> <p>Muestra mensajes personalizados de los commits.</p>
+                    <li>git init</li> <p>Crea o inicia n nuevo repositorio</p>
+                    <li>git status</li> <p>Muestra el estado del directorio de trabajo y el area de ensayo y sus ramas</p>
+                    <li>git add</li> <p>Agrego contenido al archivoindice</p>
+                    <li>git rm --cached</li> <p>Elimina el archivo del indice, pero lo mantiene en el directorio de trabajo</p>
+                    <li>git rm</li> <p>Elimina archivos, sin eliminar el historial del sistema de versiones</p>
+                    <li>git reset --soft</li> <p>Borra el historial y los registros de Git de commits anteriores, pero guarda los cambios en Staging para aplicar las ultimas actualizaciones a un nuevo commit.</p>
+                    <li>git reset --hard</li> <p>Deshace todo, absolutamente todo. Toda la informacion de los commits y del area de staging se elimina del historial.</p>
+                    <li>git reset --mixed</li> <p>Borra todo, exactamente todo. Toda la informacion de los commits y del area de staging se elimina del historial.</p>
+                    <li>git reset HEAD</li> <p>El comando git reset saca archivos del area de staging sin borrarlos ni realizar otras acciones. Esto impide que los ultimos cambios en estos archivos se envien al ultimo commit.</p>
                 </ol>
             </div>
         </div>
