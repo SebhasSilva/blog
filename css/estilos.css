@@ -10,11 +10,12 @@ body
 
 #container
 {
-    width: 1000;
+    width: 700;
     padding: 1em;
     text-align: left;
-    border:  1px solid fuchsia;
+    border:  5px solid rgb(209, 118, 33);
     margin: 0 auto;
+    align-items: first baseline;
 }
 
 #container h1
