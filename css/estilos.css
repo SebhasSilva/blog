@@ -24,11 +24,6 @@ body
     color: brown;
 }
 
-#name {
-    font-size: medium;
-    color: aqua;
-}
-
 #list
 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,4 +40,12 @@ body
     font-size: 30px;
     margin: 2;
     padding: 2;
+}
+
+#name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 7px;
 }
